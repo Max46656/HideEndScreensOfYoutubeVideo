@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name         隱藏youtube片尾畫面
-// @name:jp      YouTubeの終了画面を非表示にする。
+// @name:jp      YouTubeの終了畫面を非表示にする。
 // @name:en      Hide end-screens of YouTube.
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/Max46656
 // @version      2024-04-26
 // @description  自動隱藏 YouTube 影片結尾
 // @description:en Automatically hide end-screens at the end of YouTube videos.
-// @description:jp YouTube動画の最後にある終了画面を自動的に非表示にします。
+// @description:jp YouTube動畫の最後にある終了畫面を自動的に非表示にします。
 // @author       Max
+// @license      MIT
 // @match        https://www.youtube.com/
 // @match        https://www.youtube.com/watch?v=*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
