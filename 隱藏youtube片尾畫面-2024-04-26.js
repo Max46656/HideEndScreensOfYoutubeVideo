@@ -3,7 +3,7 @@
 // @name:jp      YouTubeの終了畫面を非表示にする。
 // @name:en      Hide end-screens of YouTube.
 // @namespace    https://github.com/Max46656
-// @version      2024-04-26
+// @version      1.0
 // @description  自動隱藏 YouTube 影片結尾
 // @description:en Automatically hide end-screens at the end of YouTube videos.
 // @description:jp YouTube動畫の最後にある終了畫面を自動的に非表示にします。
