@@ -1,3 +1,5 @@
+# 現已將此腳本移至[EverythingInGreasyFork](https://github.com/Max46656/EverythingInGreasyFork/)中管理。
+
 # HideEndScreensOfYoutubeVideo
 
 Although the ending screen of Youtube videos can provide some help,
